@@ -10,3 +10,7 @@ require 'bundler_push_host'
 
 BundlerPushHost.set_host("http://mygemhost.com/")
 ```
+
+# If you're nathan
+
+gem install geminabox
